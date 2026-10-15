@@ -8,9 +8,11 @@ Through this homelab, I have gained practical experience with virtualization, Wi
 
 This repository documents the projects, configurations, challenges, and solutions I have encountered while building and maintaining my environment. Each project folder contains information about the technologies used, implementation steps, and lessons learned.
 
+Technologies & Infrastructure
 
 | Category | Technologies |
 | ------------- | ------------- |
+| Physical Hosts | Dell Optiplex 3080 Micro, Dell Optiplex 7070 Micro |
 | Virtualization  | Proxmox VE  |
 | Operating Systems  | Windows Server, Windows 11, Ubuntu Linux  |
 | Identity Management | Active Directory, DNS |
