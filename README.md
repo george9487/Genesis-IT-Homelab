@@ -7,3 +7,13 @@ The environment currently consists of two Dell OptiPlex PCs running Proxmox VE, 
 Through this homelab, I have gained practical experience with virtualization, Windows and Linux administration, networking, infrastructure monitoring, and troubleshooting.
 
 This repository documents the projects, configurations, challenges, and solutions I have encountered while building and maintaining my environment. Each project folder contains information about the technologies used, implementation steps, and lessons learned.
+
+
+| Category | Technologies |
+| ------------- | ------------- |
+| Virtualization  | Proxmox VE  |
+| Operating Systems  | Windows Server, Windows 11, Ubuntu Linux  |
+| Identity Management | Active Directory, DNS |
+| Networking | TP-Link Omada, VPN, DHCP |
+| Monitoring | Prometheus, Grafana, Uptime Kuma |
+| Containers | Uptime Kuma, Tailscale, Vaultwarden |
