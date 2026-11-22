@@ -12,3 +12,4 @@ with the first. I also used `w32tm /query /source` to check which domain
 controller my Windows 11 workstation was using.
 
 I have included a document in that briefly lists the steps taken to fix the Time Synchronization issue with screenshots included.
+Active-Directory/NTP GPO Task.docx
