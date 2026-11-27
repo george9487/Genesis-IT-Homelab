@@ -12,7 +12,7 @@ Technologies & Infrastructure
 
 | Category | Technologies |
 | ------------- | ------------- |
-| Physical Hosts | Dell Optiplex 3080 Micro, Dell Optiplex 7070 Micro |
+| Physical Hosts | Dell Optiplex 3080 Micro, Dell Optiplex 7070 Micro, Dell Optiplex 7050 Micro |
 | Virtualization  | Proxmox VE  |
 | Operating Systems  | Windows Server, Windows 11, Ubuntu Linux  |
 | Identity Management | Active Directory, DNS |
